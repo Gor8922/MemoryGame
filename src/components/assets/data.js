@@ -1,0 +1,98 @@
+export const data = [
+  {
+    id: 1,
+    name: "Iceland",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/is.png",
+    stat: "",
+  },
+  {
+    id: 2,
+    name: "Iceland",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/is.png",
+    stat: "",
+  },
+  {
+    id: 3,
+    name: "Spain",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/es.png",
+    stat: "",
+  },
+  {
+    id: 4,
+    name: "Spain",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/es.png",
+    stat: "",
+  },
+  {
+    id: 5,
+    name: "Armenia",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/am.png",
+    stat: "",
+  },
+  {
+    id: 6,
+    name: "Armenia",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/am.png",
+    stat: "",
+  },
+  {
+    id: 7,
+    name: "Russia",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/ru.png",
+    stat: "",
+  },
+  {
+    id: 8,
+    name: "Russia",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/ru.png",
+    stat: "",
+  },
+  {
+    id: 9,
+    name: "France",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/fr.png",
+    stat: "",
+  },
+  {
+    id: 10,
+    name: "France",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/fr.png",
+    stat: "",
+  },
+  {
+    id: 11,
+    name: "Georgia",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/ge.png",
+    stat: "",
+  },
+  {
+    id: 12,
+    name: "Georgia",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/ge.png",
+    stat: "",
+  },
+  {
+    id: 13,
+    name: "Germany",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/de.png",
+    stat: "",
+  },
+  {
+    id: 14,
+    name: "Germany",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/de.png",
+    stat: "",
+  },
+  {
+    id: 15,
+    name: "Portugal",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/pt.png",
+    stat: "",
+  },
+  {
+    id: 16,
+    name: "Portugal",
+    flag: "https://mainfacts.com/media/images/coats_of_arms/pt.png",
+    stat: "",
+  },
+];
